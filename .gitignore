@@ -1,0 +1,14 @@
+# PISA data and everything generated from it stay local
+data/raw/*
+!data/raw/.gitkeep
+output/
+*.sav
+*.parquet
+*.rds
+
+__pycache__/
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+Thumbs.db

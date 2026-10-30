@@ -1,0 +1,4 @@
+numpy>=2.4
+pandas>=3.0
+pyarrow>=24.0
+pyreadstat>=1.3

@@ -1,0 +1,10 @@
+# Location of the PISA 2025 public-use files (SPSS format).
+# File entries may be absolute paths or paths relative to PISA_DIR.
+PISA_DIR = data/raw
+STU_FILE = CY09_MS_STU_PUF.sav
+SCH_FILE = CY09_MS_SCH_PUF.sav
+TT_FILE = CY09_MS_STU_TT_PUF.sav
+LDW_FILE = CY09_MS_LDW_20260806.sav
+
+# Folder for all generated files (derived data, results, figures, tables, logs)
+OUTPUT_DIR = output
